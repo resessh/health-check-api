@@ -1,4 +1,4 @@
-package net.resessh
+package net.resessh.healthCheckApi
 
 import io.ktor.application.*
 import io.ktor.response.*
